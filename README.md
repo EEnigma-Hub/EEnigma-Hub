@@ -2,7 +2,7 @@
   
 ### 
   
-<h3 align="left"> İzmir’de yaşıyorum ve yazılım dünyasına duyduğum ilgiyle bu serüvene adım attım. Kod yazmayı, yeni teknolojiler öğrenmeyi ve öğrendiklerimi projelere dönüştürmeyi çok seviyorum.
+<h4 align="left"> İzmir’de yaşıyorum ve yazılım dünyasına duyduğum ilgiyle bu serüvene adım attım. Kod yazmayı, yeni teknolojiler öğrenmeyi ve öğrendiklerimi projelere dönüştürmeyi çok seviyorum.
 <br>
 Bu GitHub profili benim dijital atölyem gibi. Henüz yolun başında olsam da zamanla HTML, CSS, Bootstrap, PHP, Python ve daha birçok farklı teknolojiyle geliştirdiğim projeleri burada paylaşmayı planlıyorum. Kimi zaman küçük bir fikirden yola çıkarak, kimi zaman da gerçek bir ihtiyacı karşılamak için ortaya koyduğum çalışmalar bu profilin bir parçası olacak.
 <br>
@@ -11,7 +11,7 @@ Amacım sadece kod yazmak değil, aynı zamanda öğrenmek, denemek ve kendimi s
 <br>
 Eğer bir gün projelerim bir başkasına ilham verirse ya da bir sorununa çözüm olursa, bu benim için en büyük motivasyon kaynağı olur.
 <br>
-Zamanla bu profil; sadece projelerin değil, aynı zamanda gelişimin, öğrenmenin ve paylaşmanın da bir yansıması haline gelecek.</h3>
+Zamanla bu profil; sadece projelerin değil, aynı zamanda gelişimin, öğrenmenin ve paylaşmanın da bir yansıması haline gelecek.</h4>
 
 ###
 
